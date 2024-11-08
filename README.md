@@ -46,3 +46,5 @@ The wireframes were designed in Figma, and I have included them as part of this 
     - Used for version control, allowing efficient tracking of changes and collaboration throughout the development process.
 - [Google Fonts](https://fonts.google.com/)
     -Integrated custom fonts to improve the visual appeal and readability of the text on the website.
+- [Figma](https://www.figma.com/)
+    - Used to design wireframes and mockups, ensuring a clear visual plan for the layout and user interface of the website.
