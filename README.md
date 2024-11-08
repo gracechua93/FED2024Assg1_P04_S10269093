@@ -48,3 +48,23 @@ The wireframes were designed in Figma, and I have included them as part of this 
     -Integrated custom fonts to improve the visual appeal and readability of the text on the website.
 - [Figma](https://www.figma.com/)
     - Used to design wireframes and mockups, ensuring a clear visual plan for the layout and user interface of the website.
+
+## **Testing**
+### **Manual Testing**
+
+
+
+
+
+
+
+
+
+
+### **Bugs and Issues**
+
+
+
+
+
+
