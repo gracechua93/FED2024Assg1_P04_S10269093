@@ -36,13 +36,13 @@ The wireframes were designed in Figma, and I have included them as part of this 
 3. Wishlist Feature - An option for users to add products to a wishlist, making it easier to save items they like for future purchases.
 
 ## **Teachnologies Used**
-- [Visual Studio Code] (https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
     - Used as the main code editor for writing and managing HTML, CSS, and JavaScript files efficiently.
-- [Html5] (https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
+- [Html5](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
     - Used to structure the content and layout of the website
 - [CSS]
     - Utilized for styling and designing the website, including layout, animations, and responsiveness.
-- [GitHub] (https://github.com/)
+- [GitHub](https://github.com/)
     - Used for version control, allowing efficient tracking of changes and collaboration throughout the development process.
-- [Google Fonts] (https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
     -Integrated custom fonts to improve the visual appeal and readability of the text on the website.
