@@ -23,7 +23,18 @@ The wireframes were designed in Figma, and I have included them as part of this 
 - Wireframes:
 
 
+## **Features**
+### **Existing Features**
+1. Responsive Navigation Bar - Allows users to easily navigate between the Homepage, Product Catalog, and Contact Page on any device, ensuring a smooth browsing experience.
+2. Product Catalog with Filtering Options - Enables users to browse and filter through a variety of clothing items based on categories like size, price, or type, making it simple to find what they are looking for.
+3. Promo Code Activation - Provides users with a way to enter promo codes at checkout, activating discounts and enhancing the shopping experience with special offers.
+4. Contact Form - Allows users to fill out a form with their name, email, and message, enabling easy communication with the company for inquiries or feedback.
+5. Promotional Banner - Highlights special offers and new arrivals on the Homepage, capturing user attention and encouraging them to explore more of the site.
 
-
+### **Features Left To Implement**
+1. User Account System - A future enhancement that will allow users to create an account, save their favorite items, and track their order history.
+2. Advanced Search Functionality - Plans to implement a comprehensive search feature that will let users quickly find products by keyword or specific attributes.
+3. Wishlist Feature - An option for users to add products to a wishlist, making it easier to save items they like for future purchases.
+4. Responsive Layout - Ensures the website looks great and functions well on all devices, from desktops to smartphones, providing a seamless user experience.
 
 
