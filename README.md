@@ -73,7 +73,7 @@ The wireframes were designed in Figma, and I have included them as part of this 
 
 
 ### **Media**
-The logos were taken from [Freepik](https://www.freepik.com/) and [Flaticon](https://www.flaticon.com/).
+The logos were taken from [Freepik](https://www.freepik.com/) and [Flaticon](https://www.flaticon.com/).  
 Search Icon:
 <a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Catalin Fertu - Flaticon</a>
 
