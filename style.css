@@ -86,17 +86,20 @@ h2,p {
 
 #content {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 10px;
+    justify-content: space-between;
+    margin: 0 auto;
 }
 
 .service-info {
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    width: 43%;
     padding: 2%;
+    flex: 1 1 45%;
+    width: 43%;
+    margin-left: 20px;
     margin-bottom: 10px;
+    display: flex;
+    flex-flow: column wrap;
     background-color: #f0f0f0;
     border: 1px solid #ccc;
     text-align: left;
