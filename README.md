@@ -2,13 +2,11 @@
 This is my FED Assignment 1
 
 ## **Project Overview**
-A modern and stylish online clothing store designed to redefine your fashion experience. Our website is a sleek, user-friendly platform where customers can explore our diverse collection of high-quality clothing and accessories.
-We aim to offer a seamless shopping experience with clear and easy navigation and exclusive promotions to focus on functionality and user experience.
-From browsing to checkout, our website is designed to make your shopping experience enjoyable and efficient.
+A modern and stylish online clothing store designed to showcase our clothing brand. Our website is a sleek, user-friendly platform where customers can explore the company in the best light, providing potential customers with easy access to product categories, essential services, and contact information. By combining a professional layout with a user-friendly interface, The Wardrobe aims to attract customers, build trust, and encourage them to engage with the brand.
 
 ## **Design Process**
-Our clothing website is thoughtfully designed to cater to fashion-forward customers who value both style and convenience.
-Our primary customer include individuals who are passionate about discovering the latest trends and appreciate a seamless online shopping experience. Our goal is to provide an engaging, intuitive, and visually appealing platform where users and those who may be new to our website can effortlessly browse, learn about our products, and make purchases with confidence.
+Our clothing website is thoughtfully designed to cater to fashion-forward customers who value both style and convenience while looking for a trustworthy shopping experience..
+The users  will need an intuitive platform to browse products, learn about the company's services, and connect with the business. The clean and straightforward layout ensures easy navigation, helping users achieve their goals effortlessly.
 
 ### **User Stories** 
 - As a fashion enthusiast, I want to easily browse a wide selection of clothing, so that I can find styles that match my taste.
