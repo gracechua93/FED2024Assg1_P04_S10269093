@@ -108,6 +108,37 @@ h2 {
     width: 45%;
 }
 
+#contact-page{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    margin: 20px;
+    font-size: 1.2em;
+    background-color: #EAE6E0;
+    width: 800px;
+    height: 500px;
+    
+}
+
+.contact-form {
+    text-align: center;
+    margin: 20px;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-sizing: border-box; 
+    font-size: 1em;
+    background-color: #ffffff;
+}
+
 footer {
     background-color: #C4B09C;
     color: black;
