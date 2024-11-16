@@ -25,15 +25,13 @@ The wireframes were designed in Figma, and I have included them as part of this 
 
 ## **Features**
 ### **Existing Features**
-1. Responsive Layout - Allows users to easily navigate between the Homepage, Product Catalog, and Contact Page on any device, ensuring a smooth browsing experience.
-2. Product Catalog with Filtering Options - Enables users to browse and filter through a variety of clothing items based on categories like size, price, or type, making it simple to find what they are looking for.
-3. Contact Form - Allows users to fill out a form with their name, email, and message, enabling easy communication with the company for inquiries or feedback.
-4. Promotional Banner - Highlights special offers and new arrivals on the Homepage, capturing user attention and encouraging them to explore more of the site.
+1. Promotional Banner - Highlights special offers and new arrivals on the Homepage, capturing user attention and encouraging them to explore more of the site.
+2. Contact Page - A dedicated page featuring a contact form for customer inquiries, as well as essential contact details (email, phone, and physical address).
+3. Services Offered - An overview of the services provided, such as personalized style consultations or custom fittings, clearly outlined for easy understanding. 
 
 ### **Features Left To Implement**
-1. User Account System - A future enhancement that will allow users to create an account, save their favorite items, and track their order history.
-2. Promo Code Activation - Provides users with a way to enter promo codes at checkout, activating discounts and enhancing the shopping experience with special offers.
-3. Wishlist Feature - An option for users to add products to a wishlist, making it easier to save items they like for future purchases.
+1. Responsive Layout - Allows users to easily navigate between the Homepage, Product Catalog, and Contact Page on any device, ensuring a smooth browsing experience.
+2. Track Record and Testimonials - A section showcasing a fictional track record with customer testimonials, designed to build trust and demonstrate the company’s credibility.
 
 ## **Teachnologies Used**
 - [Visual Studio Code](https://code.visualstudio.com/)
