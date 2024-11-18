@@ -114,15 +114,18 @@ h2 {
     justify-content: center;
     align-items: center;
     padding: 2%;
-    margin: 20px;
+    margin: 20px auto;
     font-size: 1.2em;
     background-color: #EAE6E0;
     width: 800px;
     height: 500px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
     
 }
 
 .contact-form {
+    justify-content: center;
     text-align: center;
     margin: 20px;
 }
@@ -137,6 +140,17 @@ input[type="email"] {
     box-sizing: border-box; 
     font-size: 1em;
     background-color: #ffffff;
+}
+
+.submit-btn {
+    background-color: azure;
+    color: midnightblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.submit-btn:hover {
+    background-color: #C4B09C;
 }
 
 footer {
