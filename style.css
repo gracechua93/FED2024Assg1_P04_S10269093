@@ -64,6 +64,10 @@ h1 {
 }
 
 #home-content {
+    background-image: url("../Images_Used/markus-spiske-5UJbKYUjFCk-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -118,7 +122,7 @@ h2 {
     font-size: 1.2em;
     background-color: #EAE6E0;
     width: 800px;
-    height: 550px;
+    height: 587px;
     border-radius: 8px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
     
