@@ -12,7 +12,7 @@ header {
 nav ul {
     background-color: #EAE6E0;
     height: 60px;
-    width: 100%;
+    width: 100% auto;
     list-style: none;
     padding: 10px 0;
     font-size: 2em;
@@ -184,6 +184,39 @@ input[type="email"] {
 
 .products-info {
     margin-top: auto;
+}
+
+#items-content {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 20px;
+    font-size: 1.2em;
+}
+
+.items-info {
+    background-color: #EAE6E0;
+    border-radius: 8px;
+    flex-basis: 55%;
+    padding: 2%;
+    height: 350px;
+}
+
+.items-info h3 {
+    margin-top: 0;
+}
+
+.items-info p {
+    color: midnightblue;
+}
+
+.items-img {
+    flex-basis: 45%;
+    padding-right: 10px;
+}
+
+.items-img img {
+    width: 100%;
+    height: auto;
 }
 
 footer {

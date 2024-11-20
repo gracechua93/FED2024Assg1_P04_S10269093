@@ -74,5 +74,7 @@ Search Icon:
 <a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Catalin Fertu - Flaticon</a>  
 Sale Banner:  
 <a href="https://www.freepik.com/free-photo/black-friday-concept-notebook_5721055.htm#fromView=search&page=1&position=11&uuid=b115a212-2c32-41ea-8e4d-df4bf4794623">Black friday concept on notebook</a>
+Clothes:  
+<a href="https://shopee.sg/Summer-Ice-Silk-Short-Sleeve-T-shirt-Men%27s-2021-New-Fashion-Brand-T-shirt-Inner-Half-Sleeve-Top-Clothes-Men%27s-T-i.1006220784.28208690901?sp_atk=17100706-8997-4065-b0da-c894fa801c2f&xptdk=17100706-8997-4065-b0da-c894fa801c2f">Summer Short Sleeve T-Shirt Men</a>
 
 ### **Acknowledgments**
