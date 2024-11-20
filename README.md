@@ -67,6 +67,7 @@ The wireframes were designed in Figma, and I have included them as part of this 
 ## **Credits**
 ### **Content**
 Description by Chatgpt.
+For Product page, the description is from Shopee.
 
 ### **Media**
 The logos were taken from [Freepik](https://www.freepik.com/) and [Flaticon](https://www.flaticon.com/).  
