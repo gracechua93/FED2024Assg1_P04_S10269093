@@ -72,5 +72,7 @@ Description by Chatgpt.
 The logos were taken from [Freepik](https://www.freepik.com/) and [Flaticon](https://www.flaticon.com/).  
 Search Icon:
 <a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Catalin Fertu - Flaticon</a>
+Sale Banner:
+<a href="https://www.freepik.com/free-photo/black-friday-concept-notebook_5721055.htm#fromView=search&page=1&position=11&uuid=b115a212-2c32-41ea-8e4d-df4bf4794623">Black friday concept on notebook</a>
 
 ### **Acknowledgments**
