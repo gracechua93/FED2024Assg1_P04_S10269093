@@ -267,14 +267,11 @@ footer {
 
     #products-content {
         display: flex;
-        flex-direction: column; 
         align-items: center;
         width: 90%;
     }
 
     .products-items {
-        flex: 1  1 45%;
-        width: 90%;
         flex-basis: auto;
         flex-grow: inherit;
         margin: 10px 0;
