@@ -64,13 +64,16 @@ h1 {
 }
 
 #home-content {
-    background-image: url("../Images_Used/markus-spiske-5UJbKYUjFCk-unsplash.jpg");
+    background-image: url("../FEDImages/2148313084.jpg");
+    min-height: 800px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     text-align: center;
+    justify-content: center;
+    color: white;
 }
 
 h2 {
