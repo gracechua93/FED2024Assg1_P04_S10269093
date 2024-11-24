@@ -19,7 +19,7 @@ The users  will need an intuitive platform to browse products, learn about the c
 To create a clear and effective layout, I developed wireframes and mockups that guided the development of the site. 
 The wireframes were designed in Figma, and I have included them as part of this project.
 - Wireframes:
-
+    - [Link to my figma wireframe.](https://www.figma.com/design/crNTc248qpr9ooDQAEb2OH/Assig1-Low-Fidelity-Website?node-id=0-1&t=pFooKpCisHWv8Q6d-1)
 
 ## **Features**
 ### **Existing Features**
