@@ -66,7 +66,7 @@ The wireframes were designed in Figma, and I have included them as part of this 
 
 ## **Credits**
 ### **Content**
-Description by Chatgpt.
+Description by Chatgpt.  
 For Product page, the description is from Shopee.
 
 ### **Media**
