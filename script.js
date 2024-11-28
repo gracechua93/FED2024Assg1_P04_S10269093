@@ -14,6 +14,7 @@ if (path.includes("products.html")) {
       item.style.outline = 'none';
     });
   });
+
 } 
 else if (path.includes("contact.html")) {
   console.log("This is the contact page!");

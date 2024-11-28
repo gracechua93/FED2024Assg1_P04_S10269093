@@ -11,53 +11,35 @@ header {
     flex-direction: column;
     align-items: center;
     padding: 20px 40px;
-    background-color: #DFE6EC; /* White header */
-    border-bottom: 2px solid #C3CBCE; /* Subtle bottom border */
-    position: relative;
-    z-index: 10;
+    padding-bottom: 0;
+    background-color: #DFE6EC;
+    border-bottom: 2px solid #C3CBCE; 
     box-sizing: border-box;
+    width: 100%;
 }
 
-.navbar .nav-links {
+nav ul {
     list-style: none;
-    display: flex;
+    display: flex; 
     gap: 20px;
+    justify-content: center;
+    flex-wrap: nowrap;
 }
 
-.navbar .nav-links li a{
+nav ul li {
+    font-size: 1.7em;
+    color: #191F25;
+    margin: 0 15px;
+}
+
+nav ul li a{
     text-decoration: none;
-    color: #A9ADB4; /* Medium gray for links */
-    font-size: 1rem;
+    color: #A9ADB4;
     transition: color 0.3s;
 }
 
-.navbar .nav-links li a:hover {
-    color: #404040; /* Darker color on hover */
-}
-
-/* nav ul {
-    background-color: #EAE6E0;
-    height: 60px;
-    width: 100%;
-    list-style: none;
-    padding: 10px 0;
-    font-size: 2em;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    text-align: center;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-} */
-
-.navbar .nav-links li {
-    font-size: 1.7rem;
-    color: #191F25;
-    margin: 0 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+nav ul li a:hover {
+    color: #404040;
 }
 
 a{
@@ -70,18 +52,14 @@ a{
     font-size: 1.5em;
 }
 
-.logo {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-
 h1 {
     margin: 0;
     padding-left: 20px;
     display: flex;
     justify-content: center;
     padding-right: 10px;
+    margin-bottom: 10px;
+    text-shadow:  2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .marck-script-regular {
@@ -97,7 +75,8 @@ h1 {
 }
 
 #home-content {
-    background-image: url("../FED_Images/2148313084.jpg");
+    background-image: url("../FED_Images/3d-rendering-minimal-scandinavian-wood-walk-closet-with-wardrobe.jpg");
+    opacity: 0.9;
     min-height: 800px;
     width: 100%;
     background-size: cover;
@@ -107,7 +86,7 @@ h1 {
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    color: white;
+    color: black;
 }
 
 h2 {
@@ -128,6 +107,10 @@ h2 {
     border: 1px solid #262520;
 }
 
+.button:hover{
+    background-color: #889DAA;
+}
+
 #services-content {
     display: flex;
     flex-wrap: wrap;
@@ -141,7 +124,7 @@ h2 {
     padding: 2%;
     display: flex;
     flex-direction: column;
-    background-color: #EAE6E0;
+    background-color: #E7DFD5;
     border: 1px solid #ccc;
     border-radius: 10px;
     text-align: left;
@@ -167,7 +150,8 @@ h2 {
     padding: 2%;
     margin: 20px auto;
     font-size: 1.2em;
-    background-color: #EAE6E0;
+    /* background-color: #EAE6E0; */
+    background-color: #E7DFD5;
     width: 800px;
     height: 587px;
     border-radius: 8px;
@@ -194,7 +178,7 @@ input[type="email"] {
 }
 
 .submit-btn {
-    background-color: azure;
+    background-color: #F8F3EA;
     color: midnightblue;
     border-radius: 10px;
     padding: 5px;
@@ -217,7 +201,7 @@ input[type="email"] {
     padding: 2%;
     display: flex;
     flex-basis: 18%;
-    background-color: #EAE6E0;
+    background-color: #E7DFD5;
     border: 1px solid #ccc;
     border-radius: 10px;
     flex-direction: column;
@@ -244,7 +228,7 @@ input[type="email"] {
 }
 
 .items-info {
-    background-color: #EAE6E0;
+    background-color: #E7DFD5;
     border-radius: 8px;
     flex-basis: 55%;
     padding: 2%;
@@ -270,7 +254,7 @@ input[type="email"] {
 }
 
 footer {
-    background-color: #DCD9D8;
+    background-color: #889DAA;
     color: black;
     text-align: center;
     padding: 10px;
@@ -282,18 +266,25 @@ footer {
     html {
         overflow-x: hidden;
     }
+
     body, header {
         font-size: 0.9em; 
     }
 
+    header {
+        padding: 15px 20px;
+    }
+
     nav ul {
-        flex-wrap: wrap; 
-        font-size: 1.2em; 
+        padding-left: 0;
+        font-size: 1em; 
         height: auto; 
+        gap: 10px;
     }
 
     nav ul li {
-        margin: 5px 10px;
+        font-size: 1.2em;
+        margin: 0 5px;
         flex-basis: auto;
     }
 
