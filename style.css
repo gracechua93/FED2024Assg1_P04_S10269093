@@ -18,12 +18,23 @@ header {
     width: 100%;
 }
 
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    width: 100%;
+    padding: 10px 0;
+}
+
 nav ul {
     list-style: none;
     display: flex; 
     gap: 20px;
     justify-content: center;
+    align-items: center;
     flex-wrap: nowrap;
+    padding-left: 10px;
 }
 
 nav ul li {
@@ -50,6 +61,22 @@ a{
 .divider {
     color: #333;
     font-size: 1.5em;
+}
+
+.icons {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
+.icons .icon {
+    margin-left: 20px;
+}
+
+.icons img {
+    width: 25px;
+    height: 25px;
 }
 
 h1 {
@@ -232,7 +259,7 @@ input[type="email"] {
     border-radius: 8px;
     flex-basis: 55%;
     padding: 2%;
-    height: 350px;
+    height: 400px;
 }
 
 .items-info h3 {
@@ -251,6 +278,40 @@ input[type="email"] {
 .items-img img {
     width: 100%;
     height: auto;
+}
+
+.items-details {
+    list-style: none;
+    padding-left: 0;
+    color: #404040;
+}
+
+.items-details li {
+    margin-bottom: 8px;
+}
+
+.size-selection {
+    margin-top: 20px;
+}
+
+.size-selection label {
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+.cart {
+    background-color: #191F25;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.cart:hover {
+    background-color: #889DAA;
 }
 
 footer {

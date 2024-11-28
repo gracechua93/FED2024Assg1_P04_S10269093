@@ -73,6 +73,11 @@ For Product page, the description is from Shopee.
 The logos were taken from [Freepik](https://www.freepik.com/) and [Flaticon](https://www.flaticon.com/).  
 Search Icon:  
 <a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Catalin Fertu - Flaticon</a>  
+User Icon:  
+<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Graphics Plazza - 
+Flaticon</a>  
+Shopping Cart Icon:  
+<a href="https://www.flaticon.com/free-icons/shopping-cart" title="shopping cart icons">Shopping cart icons created by Arafat Uddin - Flaticon</a>
 Wardrobe:  
 <a href="https://www.freepik.com/free-photo/3d-rendering-minimal-scandinavian-wood-walk-closet-with-wardrobe_78013357.htm#fromView=search&page=1&position=14&uuid=2bbd26f9-2987-4c8a-a5a3-46ac215e01f8">3d rendering minimal scandinavian wood walk in closet with wardrobe</a>  
 Clothes:  

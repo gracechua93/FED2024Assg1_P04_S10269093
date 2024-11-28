@@ -41,6 +41,14 @@ else if (path.includes("services.html")) {
   hiddenInfo.forEach((el) => observer.observe(el));
 
 }
-
-
+else if (path.includes("items.html")) {
+  function selectSize(event) {
+    const checkboxes = document.querySelectorAll('.size-checkbox');
+    checkboxes.forEach(checkbox => {
+        if (checkbox !== event.target) {
+            checkbox.checked = false;
+        }
+    })
+  }
+}
 
