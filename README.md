@@ -49,10 +49,20 @@ The wireframes were designed in Figma, and I have included them as part of this 
 
 ## **Testing**
 ### **Manual Testing**
-1. Contact Us Form:
-    Try Submiting the form without entering any information.
-    - Expected Outcome: An error appears saying,"Please fill out this field."
-    - Actual Outcome: The error message appears as expected.
+1. Contact Us Form:  
+    - Try Submiting the form without entering any information.
+        - Expected Outcome: An error appears saying, "Please fill out this field."
+        - Actual Outcome: The error message appears as expected.  
+    - Try entering an invalid email address.
+        - Expected Outcome: An error message appears saying, "Please include an '@' in  the email address."
+        - Actual Outcome: The error message appears as expected.  
+    - Enter all valid inputs and submit the form.
+        - Expected Outcome: An success message appears saying, "Form submitted successfully."
+        - Actual Outcome: The error message appears as expected.  
+
+2. Cross-Device Testing:  
+    - Different screen size: Mobile phones, tablets and desktops.
+        - Ensure that the layout is responsive, buttons and texts are not overlapping. 
 
 
 
