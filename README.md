@@ -38,6 +38,8 @@ The wireframes were designed in Figma, and I have included them as part of this 
     - Used to structure the content and layout of the website
 - [CSS]
     - Utilized for styling and designing the website, including layout, animations, and responsiveness.
+- [JavaScript](https://www.javascript.com/)
+    - Add interactivity and dynamic functionality to the website.
 - [GitHub](https://github.com/)
     - Used for version control, allowing efficient tracking of changes and collaboration throughout the development process.
 - [Google Fonts](https://fonts.google.com/)
@@ -47,6 +49,10 @@ The wireframes were designed in Figma, and I have included them as part of this 
 
 ## **Testing**
 ### **Manual Testing**
+1. Contact Us Form:
+    - Try Submiting the form without entering any information.
+    - Expected Outcome: An error appears saying,"Please fill out this field."
+    - Actual Outcome: The error message appears as expected.
 
 
 
