@@ -50,7 +50,7 @@ The wireframes were designed in Figma, and I have included them as part of this 
 ## **Testing**
 ### **Manual Testing**
 1. Contact Us Form:
-    - Try Submiting the form without entering any information.
+    Try Submiting the form without entering any information.
     - Expected Outcome: An error appears saying,"Please fill out this field."
     - Actual Outcome: The error message appears as expected.
 
