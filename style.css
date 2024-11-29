@@ -22,7 +22,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 80px;
     width: 100%;
     padding: 10px 0;
 }
@@ -35,6 +35,8 @@ nav ul {
     align-items: center;
     flex-wrap: nowrap;
     padding-left: 10px;
+    margin: 30px;
+    width: 100%;
 }
 
 nav ul li {
@@ -68,6 +70,7 @@ a{
     align-items: flex-end;
     justify-content: flex-end;
     gap: 15px;
+    margin-left: 30px;
 }
 
 .icons .icon {
@@ -341,12 +344,28 @@ footer {
         font-size: 1em; 
         height: auto; 
         gap: 10px;
+        margin: 10px;
     }
 
     nav ul li {
         font-size: 1.2em;
         margin: 0 5px;
         flex-basis: auto;
+    }
+
+    .header-content {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .icons {
+        gap: 10px;
+        margin: 0;
+    } 
+
+    .icon img {
+        width: 20px;
+        height: 20px;
     }
 
     #home-content {
