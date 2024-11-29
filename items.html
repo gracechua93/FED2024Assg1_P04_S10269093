@@ -28,7 +28,10 @@
                 </nav>
                 <div class="icons">
                     <a href="#" class="icon"><img src="../FED_Images/user.png"></a> 
-                    <a href="#" class="icon"><img src="../FED_Images/online-shopping.png"></a> 
+                    <a href="#" class="cart-icon">
+                        <img src="../FED_Images/online-shopping.png">
+                        <span class="cart-count" id="cart-count">0</span>
+                    </a> 
                 </div>
             </div>
         </header>  
@@ -61,7 +64,7 @@
                         <input type="checkbox" class="size-checkbox" onclick="selectSize(event)"> XL
                     </label>
                 </div>
-                <button class="cart">Add To Cart</button>
+                <button class="cart" id="cart">Add To Cart</button>
             </div>
         </section>
 

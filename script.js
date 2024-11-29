@@ -50,5 +50,25 @@ else if (path.includes("items.html")) {
         }
     })
   }
+
+  let cartCount = 0;
+
+  document.getElementById('cart').addEventListener('click', () => {
+    // Increment the cart count
+    cartCount++;
+    
+    // Update the cart count display
+    const cartCountElement = document.getElementById('cart-count');
+    cartCountElement.textContent = cartCount;
+    
+    // Trigger the animation
+    cartCountElement.style.transform = 'scale(1)';
+    
+    // Reset the animation after it plays
+    setTimeout(() => {
+      cartCountElement.style.transform = 'scale(0.9)';
+    }, 300);
+  });
+
 }
 
