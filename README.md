@@ -36,7 +36,7 @@ The wireframes were designed in Figma, and I have included them as part of this 
     - Used as the main code editor for writing and managing HTML, CSS, and JavaScript files efficiently.
 - [Html5](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
     - Used to structure the content and layout of the website
-- [CSS]
+- [CSS](https://www.w3.org/Style/CSS/)
     - Utilized for styling and designing the website, including layout, animations, and responsiveness.
 - [JavaScript](https://www.javascript.com/)
     - Add interactivity and dynamic functionality to the website.
@@ -62,7 +62,15 @@ The wireframes were designed in Figma, and I have included them as part of this 
 
 2. Cross-Device Testing:  
     - Different screen size: Mobile phones, tablets and desktops.
-        - Ensure that the layout is responsive, buttons and texts are not overlapping. 
+        - Ensure that the layout is responsive, buttons and texts are not overlapping.
+        - View the website on mobile screen.
+            - Expected Outcome: The website layout adjusts to fit the screen size without horizontal scrolling.
+            - Actual Outcome: 
+                - Some texts width do not adjust according to the smaller screen size, making them spill outside of the  container.
+                - The website's main content area overflows, causing horizontal scrolling.
+            - Solution: 
+                - To fix the overflow issue, I added "overflow-x: hidden" to prevent any horizontal scrolling.  
+                - Also, to fix the image size, i set the img to be width to be 100% to it can scale down and fit properly within the screen size.
 
 
 
