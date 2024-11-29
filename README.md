@@ -80,8 +80,6 @@ For Item description, it has been inspired by Chatgpt.
 
 ### **Media**
 The logos were taken from [Freepik](https://www.freepik.com/) and [Flaticon](https://www.flaticon.com/).  
-Search Icon:  
-<a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Catalin Fertu - Flaticon</a>  
 User Icon:  
 <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Graphics Plazza - 
 Flaticon</a>  
