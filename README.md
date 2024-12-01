@@ -91,7 +91,12 @@ Clothes:
 <a href="https://shopee.sg/Summer-Ice-Silk-Short-Sleeve-T-shirt-Men%27s-2021-New-Fashion-Brand-T-shirt-Inner-Half-Sleeve-Top-Clothes-Men%27s-T-i.1006220784.28208690901?sp_atk=17100706-8997-4065-b0da-c894fa801c2f&xptdk=17100706-8997-4065-b0da-c894fa801c2f">Summer Short Sleeve T-Shirt Men</a>  
 <a href="https://shopee.sg/100-cotton-summer-short-sleeve-T-shirt-men%27s-2-new-wash-to-do-old-heavy-half-sleeve-fashion-clothes-i.484422913.26056395734?sp_atk=3b831707-1132-4b9a-9132-39103873f9fd&xptdk=3b831707-1132-4b9a-9132-39103873f9fd">Cotton Summer Short Sleeves T-Shirt Men</a>  
 <a href="https://shopee.sg/Straight-Loose-Corduroy-Pants-for-Women-Korean-American-Retro-Ins-Versatile-Casual-Trousers-i.1006220784.24371983359?sp_atk=93cc9b36-db22-4f61-8f2e-8bcb625f73c6&xptdk=93cc9b36-db22-4f61-8f2e-8bcb625f73c6">Straight Loose Pants For Women</a>  
-<a href="https://shopee.sg/IELGY-Loose-Women%27s-sweater-Long-sleeves-All-match-V-neck-Autumn-White-Sweater-Commuting-i.16572352.3659675209?sp_atk=780b09d9-93b8-4ee8-a170-d39f3448ed25&xptdk=780b09d9-93b8-4ee8-a170-d39f3448ed25">Loose Women's Sweater</a>
+<a href="https://shopee.sg/IELGY-Loose-Women%27s-sweater-Long-sleeves-All-match-V-neck-Autumn-White-Sweater-Commuting-i.16572352.3659675209?sp_atk=780b09d9-93b8-4ee8-a170-d39f3448ed25&xptdk=780b09d9-93b8-4ee8-a170-d39f3448ed25">Loose Women's Sweater</a>  
+Video:  
+Music track: honey jam by massobeats  
+Source: https://freetouse.com/music  
+Background video:  
+<a href="https://www.freepik.com/free-video/motion-graphic-gradient-black-background-with-wavy-lines_3295043#fromView=search&page=2&position=48&uuid=a0ad35bf-8f99-42d1-b085-5119d4f8344f">Video by freepik</a>  
 
 ### **Acknowledgments**
 I received assistance from ChatGPT for generating ideas, answering questions, and providing guidance throughout the development of this project.
