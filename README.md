@@ -93,8 +93,7 @@ Clothes:
 <a href="https://shopee.sg/Straight-Loose-Corduroy-Pants-for-Women-Korean-American-Retro-Ins-Versatile-Casual-Trousers-i.1006220784.24371983359?sp_atk=93cc9b36-db22-4f61-8f2e-8bcb625f73c6&xptdk=93cc9b36-db22-4f61-8f2e-8bcb625f73c6">Straight Loose Pants For Women</a>  
 <a href="https://shopee.sg/IELGY-Loose-Women%27s-sweater-Long-sleeves-All-match-V-neck-Autumn-White-Sweater-Commuting-i.16572352.3659675209?sp_atk=780b09d9-93b8-4ee8-a170-d39f3448ed25&xptdk=780b09d9-93b8-4ee8-a170-d39f3448ed25">Loose Women's Sweater</a>  
 Video:  
-Music track: honey jam by massobeats  
-Source: https://freetouse.com/music  
+Music track: honey jam by massobeats Source: https://freetouse.com/music  
 Background video:  
 <a href="https://www.freepik.com/free-video/motion-graphic-gradient-black-background-with-wavy-lines_3295043#fromView=search&page=2&position=48&uuid=a0ad35bf-8f99-42d1-b085-5119d4f8344f">Video by freepik</a>  
 
